@@ -1,2 +1,2 @@
 # mockito-best-practice
-Examples for article about JUnit + Mockito
+Examples for [article](http://rogmax.com/blog/mockito_junit.html) about JUnit + Mockito
